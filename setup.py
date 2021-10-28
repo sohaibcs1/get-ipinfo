@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="get_ipinfo",
-    version="0.0.9",
+    version="0.1.1",
     author='Muhammad Sohaib',
     author_email="sohaib.cs1@gmail.com",
     description='Get Country, Region, City, GPS ,ZIP and ISP',
@@ -19,7 +19,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires=">=3.9", 
+    python_requires=">=3.6", 
     py_modules=['get_ipinfo'],
     package_dir={"": "src"}
     #install_requires=['urllib','requests']
