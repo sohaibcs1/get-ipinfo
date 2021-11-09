@@ -1,5 +1,7 @@
 This library get some useful information from IP address such as Country, Region, City, GPS ,ZIP and ISP. 
 
+Library Link on PYPI: https://pypi.org/project/get-ipinfo/
+
 ## Usage
 - Make sure you have Python installed in your system
 - run a command in CMD
