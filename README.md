@@ -23,6 +23,6 @@ python test.py
   ```
 
 ## Note
-- Tested on Python 3.9
+- Tested on Python 3.6
 - You can search any public ip such as ipv4/ipv6.
 - Internet Connection needed otherwise return Error Message
